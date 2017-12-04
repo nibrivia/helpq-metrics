@@ -1,0 +1,13 @@
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+.Ruserdata
+*.csv
+*.html
+queue-log*
+*.rds
+restart.txt
+packrat/lib*/
+packrat/src/
+odbc.ini
